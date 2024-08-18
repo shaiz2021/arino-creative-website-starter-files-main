@@ -32,7 +32,7 @@ const Blogs = () => {
 
                         <div className='w-full mx-auto relative'>
                             <button className='lg:absolute right-0 mt-8 px-6 py-2 text-xl bg-white text-black rounded-xl hover:bg-orange 
-                             hover:text-white transition-all duration-300 hover:-translate-y-3'>Read More</button>
+                             hover:text-white transition-all duration-700 hover:-translate-y-3'>Read More</button>
                         </div>
                     </div>
                 </div>
